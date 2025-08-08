@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/logo.png" alt="DTL-nutriBridge Logo" width="120" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/logo.png" alt="DTL-nutriBridge Logo" width="140" style="animation: logo-pop 1.2s cubic-bezier(.68,-0.55,.27,1.55) both;"/>
 </p>
 
-<h1 align="center">🌱 DTL-nutriBridge</h1>
+<h1 align="center" style="animation: fadeInTitle 1s ease-in;">🌱 DTL-nutriBridge</h1>
 
-<p align="center">
+<p align="center" style="animation: fadeInSlogan 2s;">
   <b>Find healthy spots, live and local!</b><br>
   <i>Your guide to organic groceries, gyms, and fitness near you.</i>
 </p>
 
-<p align="center">
+<p align="center" style="animation: badgeFade 1.8s;">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -28,25 +28,25 @@ We empower you to maintain a healthier lifestyle by giving you **live, map-based
 
 ## 🌟 Why use this app?
 
-- **Find Real Healthy Spots Instantly:**  
-  See live, accurate locations of healthy groceries and gyms near you.
-- **Privacy-First:**  
-  Your location is only used with permission, not stored or shared.
-- **Mobile Friendly:**  
-  Enjoy a beautiful, responsive experience on mobile and desktop.
-- **Open Data Powered:**  
-  Built using reliable, community-driven OpenStreetMap data.
-- **Modern, Friendly UI:**  
-  Heart icons and a clear map make finding your next healthy stop easy.
+- <span style="animation: fadeInList 0.8s;">**Find Real Healthy Spots Instantly:**  
+  See live, accurate locations of healthy groceries and gyms near you.</span>
+- <span style="animation: fadeInList 1.0s;">**Privacy-First:**  
+  Your location is only used with permission, not stored or shared.</span>
+- <span style="animation: fadeInList 1.2s;">**Mobile Friendly:**  
+  Enjoy a beautiful, responsive experience on mobile and desktop.</span>
+- <span style="animation: fadeInList 1.4s;">**Open Data Powered:**  
+  Built using reliable, community-driven OpenStreetMap data.</span>
+- <span style="animation: fadeInList 1.6s;">**Modern, Friendly UI:**  
+  Heart icons and a clear map make finding your next healthy stop easy.</span>
 
 ---
 
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_beneficiaries.png" alt="App Screenshot 1" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
-  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_dashboard.png" alt="App Screenshot 2" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
-  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/student_dashboard.png" alt="App Screenshot 3" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_beneficiaries.png" alt="App Screenshot 1" width="320" style="border-radius:16px;box-shadow:0 6px 30px #bbb;animation:screenshotPop 1.2s cubic-bezier(.68,-0.55,.27,1.55) both; margin: 0 8px 16px 8px;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_dashboard.png" alt="App Screenshot 2" width="320" style="border-radius:16px;box-shadow:0 6px 30px #bbb;animation:screenshotPop 1.4s cubic-bezier(.68,-0.55,.27,1.55) both; margin: 0 8px 16px 8px;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/student_dashboard.png" alt="App Screenshot 3" width="320" style="border-radius:16px;box-shadow:0 6px 30px #bbb;animation:screenshotPop 1.6s cubic-bezier(.68,-0.55,.27,1.55) both; margin: 0 8px 16px 8px;" />
 </p>
 
 ---
@@ -127,6 +127,15 @@ This project is licensed under the MIT License.
 
 ---
 
-<p align="center">
+<p align="center" style="animation: fadeInFooter 2s;">
   <b>Eat healthy. Stay fit. Explore local!</b>
 </p>
+
+---
+
+<!-- 
+  Animations: 
+  Note that GitHub markdown does not support real CSS animations, 
+  but the inline styles and class names are here as a design reference for further use 
+  (e.g., on your website or in a markdown renderer that supports HTML/CSS).
+-->
