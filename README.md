@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/commit/37cd2b7e748341ded9972c98ea11fd513bedf0d4" alt="DTL-nutriBridge Logo" width="120" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/logo.png" alt="DTL-nutriBridge Logo" width="120" />
 </p>
 
 <h1 align="center">🌱 DTL-nutriBridge</h1>
