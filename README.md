@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="DTL-nutriBridge Logo" width="120" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/vite.png" alt="DTL-nutriBridge Logo" width="120" />
 </p>
 
 <h1 align="center">🌱 DTL-nutriBridge</h1>
