@@ -44,9 +44,9 @@ We empower you to maintain a healthier lifestyle by giving you **live, map-based
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" alt="App Screenshot 1" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
-  <img src="assets/screenshot2.png" alt="App Screenshot 2" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
-  <img src="assets/screenshot3.png" alt="App Screenshot 3" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_beneficiaries.png" alt="App Screenshot 1" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/ngo_dashboard.png" alt="App Screenshot 2" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="https://github.com/Prateek-glitch/DTL-nutriBridge/blob/main/student_dashboard.png" alt="App Screenshot 3" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
 </p>
 
 ---
