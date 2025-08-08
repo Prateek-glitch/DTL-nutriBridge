@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="assets/logo.png" alt="DTL-nutriBridge Logo" width="120" />
+</p>
+
+<h1 align="center">🌱 DTL-nutriBridge</h1>
+
+<p align="center">
+  <b>Find healthy spots, live and local!</b><br>
+  <i>Your guide to organic groceries, gyms, and fitness near you.</i>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -6,47 +17,59 @@
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
 </p>
 
-# 🌱 DTL-nutriBridge
+---
 
-**DTL-nutriBridge** is a modern web app designed to help you easily find healthy spots—such as organic grocery stores, fitness centers, and gyms—around your location, starting with Kengeri, Bangalore. The goal is to empower users to discover, access, and maintain a healthier lifestyle, leveraging real-time data and a smooth user experience.
+## ✨ What is DTL-nutriBridge?
+
+DTL-nutriBridge is a modern web app that helps you discover healthy spots—organic grocery stores, gyms, and fitness centers—right where you are, starting with Kengeri, Bangalore.  
+We empower you to maintain a healthier lifestyle by giving you **live, map-based access to real healthy locations** around you.
 
 ---
 
-## 🚀 Why Use DTL-nutriBridge?
+## 🌟 Why use this app?
 
 - **Find Real Healthy Spots Instantly:**  
-  No more guessing—see live, accurate locations of healthy groceries and fitness centers around you.
-
+  See live, accurate locations of healthy groceries and gyms near you.
 - **Privacy-First:**  
-  No registration required for browsing. Location is used only with your permission for optimal results.
-
+  Your location is only used with permission, not stored or shared.
 - **Mobile Friendly:**  
-  Works beautifully on both mobile and desktop, so you can discover healthy places on the go.
-
-- **Powered by Open Data:**  
-  Uses OpenStreetMap—always up-to-date and community-driven!
+  Enjoy a beautiful, responsive experience on mobile and desktop.
+- **Open Data Powered:**  
+  Built using reliable, community-driven OpenStreetMap data.
+- **Modern, Friendly UI:**  
+  Heart icons and a clear map make finding your next healthy stop easy.
 
 ---
 
-## 🛠️ Technologies Used
+## 🖼️ Screenshots
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28"/>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" height="28"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="28"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="28"/>
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" height="28"/>
+<p align="center">
+  <img src="assets/screenshot1.png" alt="App Screenshot 1" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="assets/screenshot2.png" alt="App Screenshot 2" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
+  <img src="assets/screenshot3.png" alt="App Screenshot 3" width="320" style="border-radius:10px;box-shadow:0 2px 10px #cccccc;" />
 </p>
 
-- **React:** Fast, interactive UI
-- **Leaflet:** Beautiful, customizable maps
-- **OpenStreetMap & Overpass API:** Real-time, open-source place data
-- **Firebase:** User authentication and secure backend
-- **Netlify:** Fast, reliable, and free deployment
+---
+
+## 🛠️ Built With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" height="28"/>
+</p>
+
+- **React** – Fast, modern interactive UI
+- **Leaflet** – Beautiful, customizable maps
+- **OpenStreetMap & Overpass API** – Live, open-source place data
+- **Firebase** – Secure authentication
+- **Netlify** – Fast, reliable, and free deployment
 
 ---
 
-## ✨ App Features
+## ✨ Features
 
 - 🌍 **Live Map View:**  
   Instantly see healthy groceries and gyms near your current (or chosen) location.
@@ -65,7 +88,7 @@
 
 ---
 
-## 📦 Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repo:**
     ```sh
@@ -93,7 +116,8 @@
 
 ## 🤝 Contributing
 
-Pull requests and suggestions are welcome! Feel free to open an issue or fork the repo and submit a PR.
+Pull requests and suggestions are welcome!  
+Feel free to open an issue or fork the repo and submit a PR.
 
 ---
 
