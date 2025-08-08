@@ -108,11 +108,7 @@ We empower you to maintain a healthier lifestyle by giving you **live, map-based
 
 ---
 
-## 🌐 Live Demo
 
-> [https://your-netlify-app-url.netlify.app](https://your-netlify-app-url.netlify.app)
-
----
 
 ## 🤝 Contributing
 
